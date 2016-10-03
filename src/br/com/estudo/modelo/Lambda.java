@@ -31,6 +31,7 @@ public class Lambda {
 
 				return 0;
 			}
+			
 		});
 		*/
 		palavra.sort((s1, s2) -> {
